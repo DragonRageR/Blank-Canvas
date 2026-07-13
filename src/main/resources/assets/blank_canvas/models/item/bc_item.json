@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "blank_canvas:item/bc_item"
-    }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "blank_canvas:item/bc_item"
+  }
 }
