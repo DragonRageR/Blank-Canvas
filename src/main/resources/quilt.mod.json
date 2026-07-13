@@ -3,10 +3,11 @@
 	"quilt_loader": {
 		"group": "io.github.dragonrager",
 		"id": "blank_canvas",
-		"version": "${version}",
 		"metadata": {
 			"name": "Blank Canvas",
 			"description": "A Blank Canvas which add in game feelings and reactions on events.",
+			"license": "ARR",
+			"version": "${version}",
 			"contributors": {
 				"DragonRageR": "Owner"
 			},
