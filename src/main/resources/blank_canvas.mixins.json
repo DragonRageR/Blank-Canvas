@@ -5,8 +5,7 @@
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [],
 	"client": [
-		"TitleScreenMixin",
-		"ItemModelsMixin"
+		"TitleScreenMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

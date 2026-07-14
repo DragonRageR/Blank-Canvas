@@ -3,11 +3,11 @@
 	"quilt_loader": {
 		"group": "io.github.dragonrager",
 		"id": "blank_canvas",
+		"version": "${version}",
 		"metadata": {
 			"name": "Blank Canvas",
 			"description": "A Blank Canvas which add in game feelings and reactions on events.",
-			"license": "ARR",
-			"version": "${version}",
+			"license": "MIT",
 			"contributors": {
 				"DragonRageR": "Owner"
 			},
@@ -23,15 +23,15 @@
 		"depends": [
 			{
 				"id": "quilt_loader",
-				"versions": ">=0.19.1"
+				"versions": ">=0.29.2"
 			},
 			{
 				"id": "quilted_fabric_api",
-				"versions": ">=7.0.2"
+				"versions": ">=11.0.0-"
 			},
 			{
 				"id": "minecraft",
-				"versions": ">=1.20"
+				"versions": ">=1.21.2"
 			}
 		]
 	},
